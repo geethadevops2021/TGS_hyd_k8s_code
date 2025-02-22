@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    labels:
+      app: mydb
+    name: mydb
+    namespace: default
+spec:
+    replicas: 1
+    selector:
+      matchLabels:
+        app: mydb
+    strategy:
+      rollingUpdate:
+        maxSurge: 25%
+        maxUnavailable: 25%
+      type: RollingUpdate
+    template:
+      metadata:
+        labels:
+          app: mydb
+      spec:
+        containers:
+        - env:
+          - name: MYSQL_ROOT_PASSWORD
+            value: redhat
+          - name: MYSQL_DATABASE
+            value: lwdb
+          - name: MYSQL_USER
+            value: vimal
+          - name: MYSQL_PASSWORD
+            valueFrom:
+              secretKeyRef:
+                name: lwsecret
+                key: p
+
+          image: mysql
+          imagePullPolicy: Always
+          name: mysql
+          resources: {}
