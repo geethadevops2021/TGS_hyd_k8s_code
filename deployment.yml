@@ -18,7 +18,7 @@ spec:
         app: myweb1
     spec:
       containers:
-      - image: vimal13/lw:v1
+      - image: vimal13/lw:v2
         name: lw
         resources: {}
 status: {}
