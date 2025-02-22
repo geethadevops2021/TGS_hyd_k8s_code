@@ -1,0 +1,500 @@
+  228  
+  229  IHDR8€+aç
+  230   IDATxœìÝw`Õ¹6ðçÌvõ.YÝUî7°ÁcSB	I54¾„$„›~“rC =JnÜRƒi¶i®¸÷^$[ÕêeÛÌ÷Çl™Ù]íJ+ie=¿{ÍîNÛ™µ¬h½ç=bÔ½kEepë¨(¾E]¯{Yö½–¡(2 È€¬>¦ô´aÎ±Híiî£¡(ÚãÉ÷{/ukÍé)†§
+  231  !O  üË…º<ðZ p,oL$“ºLHB$“ïÑ¿ÌH€™ú\ß1}Ç¾öŸ“ðŸTàQwõ¶~d†úˆˆˆˆˆˆhäé²¥áƒ1‹ÐiKïÿÁ£çJøŸ@&¢6Q;ƒ(Š/4ñ¿Vƒš±ÇQU½ê2p#{}þe^@Vø—©Ï¡ïxÁ×?Oßcà<”H©ù1à """""¢Á£©Fè²¦aÛèKÐiMGß«ŒÒE¿(4ôÐU‡h*Prø+Vúr p^º#æÏ`äbÀADDDDDD	"tÚÌB†`è7è²©!G‡--âáB¤y"5	¶vhBE[EÑ¯ÃÛÏC??m%GÔ‹ÙA""""""J þ\,ó÷–jÈñAåB5äšua‡6
+  232  :`„ˆðmÂ†€rôg¸Šr®±†Ák‰pQÿ„eÂx±¿fXcM Ó–†*/F‡5]¿}HØ!ª6DÄ‘FÈÁžƒ%PhÂ $dy çÐiMÃ•ÐaK3bP½!Bg1)	,ä`OŽÁÂ€ƒˆˆˆˆˆˆú&tè‰y.ôË„ÐVdøŸKÁ×B Óš†móÑaMÓ_Sµ!4Ïõïr@tÈÁžƒ…õ‹0Bûa„öÞ€&ˆðUs5ðè²¥c[Å|tZSë´¡…Ð[1¬â!oCÈádOŽa‹õ] h€þ1°Z@h«8$’/‹Ð¾V×wÚÒ°­|:miºýýï¡9|ëEØPí¹õr(r°'Ç@cÀADDDDDD1ˆ¥{g„YLt=3ü´ÃX¤@U‡¿ŠCÉrÌC§-5¬)©n¨Šáä*¡CUbÀžÃ""""""ŠQä°À¸zB3¤Ä¿Ì_Å! «Ú€$©Ë¤žeóÔJ â?®ˆu¨J<a{rW8ˆˆˆˆˆˆ(!a³QMuEX†£øÿHR`Ø‰€H&!’„N[:¶–ÍC§Õ7\Er†µ °\@hN)YCöäH4D	f–Ês¨ÌKYŠ£Žˆˆˆˆh˜o6ZÅ©‡?èÃU´CUÔÆ£ijÈaÓ†ïÇ1l*9Ø“#ÑÌC}DŠT›	ã
+  233  ÒpÃEÅX>¥’xc_=žßVƒ£uèpz†ú‰ˆˆˆˆD b%€ @(ê£™Ÿ¢øBoð8’¤%øò‹U 'ÅŠœt+òRmÈN³!'Í†Ì+œms‘}r/\õuh¨9‹ú35Pd9øvŠ¢†ŠÿTü€æœýçKï
+  234  íµ€ð½…ØD}?E³‰PC	!alãqÀ¡‚I€E„,Iö-3’¬~’Š"ù>>õxŠŒŒüçzžŠPÂ&ýu=u×\eÚ"náôÈ¸öW{ù|’Pùé6\9µs*²|	­–‚í§Z°vO=êÛCr~‰ 	Årñé%•˜7:iv3$ßµÞ¶¨7Î-Á¶“ÍøË{§ñæþxåá›¤Ú-&\>)óÆäÄ½¯WVðÖþì8Ý‚.—wÎŽˆˆˆˆ†”ï&_@hB…ÐMH›¡ÈP ÁjO…Å±dR&—æ ìöAçªÀ3Ë³ÇO¢úèIT>†“cÿæàõxÂC_ð¡Yä9Lý9d¨59üça`rq:Š³ì¯Úå‘#®KV8h@M.NÇGæcFY¦áúÑy©¨iîÁ[ùÌúG ÃaÁÊi…¸ñ¢Ì(ËDŠÕö½Cév3–Våcþ˜ì©nÃ?·Õ`õ®Z´w{ £²±«	WM+Ä——E~zä¤7EŽÍÁ/ÖÁÛ‡›†å7L""""Š‡A‡¢¨!‡"`1IøÐÜr|hN)–L,„ÍbêÓ»˜­”Oò‰ã,´7·âÝÿ¼‚wþó
+  235  Î<’ô!GjŠU%¹pØ-¨míÁñºŽ>„¾Ï9ŽãBÃ€ƒTA†%Y¤X¿Y•dÛût³<TÌ’@~†Ë&åãk+Æ£0JI—–j@0L6æÉÆý«&àW¯ÅÚ½õ¨oëÛ›ÜAGªM7¾tÅXŒ/Lëóq2S2pÙ¤|­ïÄÉÆ®ž!%£*Ž@ˆ@(Hµšqç’ÑøÌÒ±(Èˆ\AÐéÙ™XyûÇ±òö£öÔ¼¿ú5¼þôshom)Á†©v+fTä"-Å!$”æ¤àXmk‡«øO5<ä˜P”†ÊüàÏò6sô–œBWN-¼nhsbÇéÖ^>£¡Å€ƒTVŠY©–ˆësR­ÈM‹¼>YXLæTfáÚ™E¸lb>Jsýj š—fÅ®Ÿ„Ï,©ÄÛ‡ñâŽsØz¢noòU5¤ÚLX>¥÷,‹±©¨nîÆß·ÔPgïºwù8ì©nÅúCp{gÚqí¬"l;Ñ‚}5mèñÈ˜Z’Žcr™bÁ¸‚4d§Xprh/‹ˆˆˆˆú-B( 9€À6™)Ü±¸Ÿ½l,²R¬ƒv–EeøÈ=ŸÆª;?‰µOýÿyìÏpu÷ ØdèBŽ´T+fŒÎCªÝ¬6`7Kç‰êÉñç»/Â•S
+  236  ãúÜ,&	þôÝ²=ÕmXñð{qg0»€ãºY£0t6Š³íHµšÑåòâlk¶oÆK»ÎúoÂ§–dàâq9x|ÃÉ>í¿lR>–NÌÇ¨,;Òíf´÷xp®¥ë6àÍa6l#”IÈpXf‹\jf·˜é°Àj–’rÈB†Ã‚¹•YøèÜ,—“Ðj“$P™—‚Ê¼r¬š^„ÍÇÎã¹­5Øz¢-]î„½O¤ÛÍX69÷,‹ª¢4¸½
+  237  êÚœxê½ÓÔï±_ºb,×uàé÷ÏÀé‘1½4Ë¦äcÛÉf¼°ýÚ{<øÐ¬Q˜R’Ì	f'p""""º0D9ü3œ|iù8Ü»b<ì}†’ö>ô¹Ûqé×à™Ÿý_zmH‡«¤¤Ø‘2y	Òlfu;²oX%a=9Ì&àŠÉH„i¥pXMèNÒžzÃ&à¸í’r|qÙ”f;×ß~I9¾}m~ÿÖqüéSz.E™vÜ4¯WM+ÄôÒL4v8ã8VM/Ä}WÇÄQé†ë?½¤Ïµã¡W`Íîºœuâ™%Ë&åã¢Ê,ì©nÃ¦cçÑØá —ŒËÁÅãr7,š‡SMÝxó@=êZÕf£yiV,—ƒé¥™Ør¢ë4À3Í9ï_97/,ƒÕ$è°µ¼4+VM/Âò)øû–ü×ó{îÍb”a7ãòÉùøüec0¹8øuêñ*hð5…5ùªXzÜ2;\èq{ÑÒå†,+ètzÑØáB[·í=žaÝ\•ˆˆˆˆ¢‰
+  238  8,füå®‹°xBÞàžRYùyøâC?Ä•7ßˆ‡?ÿut´´zÈaOKÃå…V4»êPã(óS
+  239  †ŠB–	ý9ÔWfÉõž,^6³Ä€£?¾i>± ´×íŠ³ìøñG&czi&¾ò»z6³„.*Á53Š°p\N¯ã•¢ùÒcqßÊñ½q˜8*¸m~þÊüöc}~¿2½,Ÿ\PŠ…csÐí’QÝÒ-Ç›q´¾3Ë²piU
+  240  2z/=›RœŽÿZ5—VåaÓñó(Ív`þ˜l”d9à°JW˜Šó.|pªe®J/+ÅÒ¯¿ëxXÍ²R†~ÈN†Ã‚e“òñÙ¥•˜Vš1Ô§CDDDDÃ‘P!šLá†ÖøYÓqÉu+°ö©çµ'‡=-£'‡=ÕQmê/³k2õ!d¯ovô#äP‚ç9B$}Àqï•cÃ·WFk·™3,!åî7Í+Aõù.<¼öh¿ßÿ²‰ù¸á¢b\61ÙQzIÄjÕôB|}åøÀo¾ýÜ^í=n¤Û-°˜‚ëÌ’Àý+Çãh]^Ù“<•)V.­ÊÃÅãr‘n7#Ãä¥[1¾0N·«	©VsLUV³„üt®˜œ‹ÇåÀb–j5>£KÆçb÷™68×ÎéE?Ü¸ëÒJL0û‘žq ìÍô»Û;5§>ð=9li)=iì©)0Å0äPdÍ²¢ÃU’ûóO´¤8ÒlfÜ}éhÝ2¬à‰'ñ»7¡¹ÓìT¾xùÜ½t´®"â®K+ñä;§ÐÚ^ï|s	Æ¤öy#ß½n¢.ÜðÈ
+  241  _®;¦rÓ¬¸ûÒJ|î²ÑàÆ$	|÷º‰IpÌ“Ë'å«ãÅ|L’@†ÝØûöeå°šà0˜m%ÕjÆå“ò±ãtÖlìó9Sï2SÔpã3K*1³œáõÏûë±áP#.­J¾*Žã{`ãËo„Ìø2p=9ìi©=yl©_¸!"‡&£þÃÔ÷É×ëp $u§¿•ÓÃÊõŸßRƒ^<ˆæN5¸hîtãG«á¹-Õºí2¬œ_—ØPå¹)†ËûšB^3£!ÇüÝÇð£Õ‡Ðäë]ÑÔáÂO_>Œ_„TŸTæ¥`Õôþ]O¢ä§ÛpÙÄ|L-Í”é”…¦–f`IUrR¯ÛòH“á°`iUî\\1Üð£)Ïu <×²µ'NšÍŒ²uYa¦&I ÓaFi¶å¹ä¦Yú5ëÆ?ïÝýçí8ÑÐ9Èç]KCúü}ð¸=PÛ ŠàéÀDº.=%Œø¡æ€{ª£'W©•P @ñ¯ô=*ÕV‡’Ö3j#RßE‘Õá*ŠýË¼jRÈ¾eêsEñS‘Õ÷¼îÿç5\$u‡¶±¡ßoß4îEñðÚ£øÄü2Ý÷¤<û¢¡Ý‰·5á¥]µ¸jZ!nšW÷1®
+  242  	\š:\øõëÆ×óÈ[ÇqÛ%å(ÊÎ½jzQR4]4>WLÎ»7…GVÐØîDs§¹éVÄ1#‰Í,áŠÉØyº/î8ï)(EÞ;Ú„ÿz~
+  243  3løÙG§`t~ê°»¡/Î²ãªi…˜]‘qI%ÙvÜ»|õ{¿$¦•fàžecà•ä¦Y‘f3cIUÊrRàöÊŸŠÌ$è-BDDDD-¼â¡½ÇƒO<¶¯ß·é}¬öN$—Ó‰‡>÷u´7·jª4üO5•@BzrØRR0zJì©ß±Õmhê+9 {åúJÄÝ“#¤ŒCÿÕE†]CÔÚåÆÉÆ.ÃmÏµô ©Ó…¼´àoø#ÝP­˜Zˆëg‚ðŸç"ý8ßéÂæãç±fW^Ü¼©*b5¾0M÷zû©8#Lêö*Øv²×Ì(
+  244  ,—àá2}‘ŸnÃœÊ,”E¨n1rº©/ï®Åºƒ8×ÒW½	¾rj®ŸUŒò\ã™qBUä¦`Þèll:zõ¾Y<’ÓãÅC¯Á‰†NœhèÄµ¿Þ„Ë'åá¶K*0£,cH§ÂŠGªÍ„‚Œè¡“$
+  245  Òmøø|}_œ±©aÃ¹fWdEKˆˆˆˆèBœnêÂüûü¼°~„ƒIQ<rß÷qúÐQßÐ L $äH@OŽ¢ÊRV”Ád2÷UÒó²QuÉ\|w+:Ï·†…Uõµ8T0)BÈoOI¡©Ó¥{í°š`1‰ˆCDRBú74Ü/˜‡'î˜øíúÕ3Špû“àÍaÛÎûáº„6Å©ÈÓ‡'"„5~¡aNe^ì¡Â@iívcÿÙvÔ4w‡·1²ûL+ßpë6¢½Çø<«›»q¼¡‡k;p×¥•˜C3Ë³-Ý8p®-Ý}ï«2¼²šJûµu»ñÂösXw°WM-Äí‹ÊQU”6,‚ŽáUsBDDDDÉ+<xïh¾÷ïýøñS†æ”üówÿ‹íëÞW_`–!äèGOŽ¢ÊRÜ÷ø/ñìÿü:°BAznf­¼¶´Ì\¹;_YrŒm<QBŽ8zrŒ 1*IÝƒcoM›îµÕ,aù”Ãm/Ÿ”p„î+§é†˜$•z[$2Ü°™%¤ÛôyR}[ô*„º¶ÝëÐV†‚Ë#ã¥çð“—aÛ‰æ¨ÕN'»ðì¦j¼º§ç;]ºÏÓ++hérãÕ=uø¿MÕ+sõßø¶ÍøÉK‡°zÇ9¸½Ã£INk—Ïo­ÁMnÅ}ß‹Ãµ#©:Œˆˆˆˆ(ÌŸÞ=…g7’÷~ù½ýø¿¿ü;¤Ç†€B]è·Ñÿžj¸ñ+U”é–§çæ`ÖªË`KSYìHOÃÌ•K‘š“Ö“clãqTÕP‡«ô»'G"%ïMMR/î8‡ã!Íhî»j|Øt­v3¾qõÝ²ãxa{x¯†–.—Á²¯ÈK·…5äìrzŒ7öévé¿…
+  246  2ì¶<m=¼±¿¬>„—vÕÂa˜ÍÖÍØp¨1êÔ®]./6jÄÖÍ†ë]/íªÅ«áýhëñ«@V”@EÇÇÙ‚ï½°Gê:à•‡ÑE%Ð=¿7âÏÿeÇ±:Üõ‡×°µt.:miá!b9Dl!GQeî{ü×(ªô‡êÏþéyÙ˜µêrØÒôC»Cµò"zÈ!ÇrŒIpÀVÒÝ@O•Ž5_¹ß¹¶
+  247  curl http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info
+  248  curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info
+  249  while : curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info
+  250  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info;  sleep 1; done
+  251  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info;  echo -e "\n" ; sleep 1; done
+  252  cls
+  253  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/me;  echo -e "\n" ; sleep 1; done
+  254  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info;  echo -e "\n" ; sleep 1; done
+  255  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/me;  echo -e "\n" ; sleep 1; done
+  256  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/info;  echo -e "\n" ; sleep 1; done
+  257  while :; do curl  -s http://adcf526c0574343eaa650420085fb044-1934434304.ap-south-1.elb.amazonaws.com/me;  echo -e "\n" ; sleep 1; done
+  258  history 
+  259  clear
+  260  history 
+  261  exi
+  262  exit
+  263  cd Documents/
+  264  mkdir free_job_prepare_exp_2025
+  265  cd free_job_prepare_exp_2025
+  266  ls
+  267  echo "# 2day_free_job_prepare_exp2025" >> README.md
+  268  git init
+  269  git add README.md
+  270  git commit -m "first commit"
+  271  git branch -M master
+  272  git remote add origin https://github.com/vimallinuxworld13/2day_free_job_prepare_exp2025.git
+  273  git push -u origin master
+  274  ls
+  275  ls
+  276  vim app.py
+  277  ls
+  278  git add .
+  279  git commit . -m "first code"
+  280  git push
+  281  cat app.py 
+  282  vim  app.py 
+  283  git commit -m new .
+  284  git pusj
+  285  git push
+  286  ls
+  287  ls
+  288  vim Dockerfile
+  289  git add .
+  290  git commit -m df .
+  291  git  push
+  292  ls
+  293  cat Dockerfile 
+  294  cat app.py 
+  295  ls
+  296  vim app.py 
+  297  cat Dockerfile 
+  298  cls
+  299  git add .
+  300  git commit -m new .
+  301  git push 
+  302  ls
+  303  vim app.py 
+  304  git add .
+  305  git commit -m f .
+  306  git push 
+  307  cd Downloads/
+  308  cd istio-1.24.2-win-amd64/
+  309  ls
+  310  cd istio-1.24.2/
+  311  ls
+  312  cd bin/
+  313  ls
+  314  ls
+  315  cd ..
+  316  ls
+  317  cat samples/bookinfo/networking/bookinfo-gateway.yaml 
+  318  kubectl apply -f  samples/bookinfo/networking/bookinfo-gateway.yaml 
+  319  kubectl get gateway
+  320  kubectl get  vs
+  321  kubectl get svc -n istio-system
+  322  kubectl get gateway
+  323  kubectl get vs
+  324  kubectl describe  vs
+  325  kubectl  get svc
+  326  kubectl  get pods
+  327  ls
+  328  cd samples/
+  329  ls
+  330  cd addons/
+  331  ls
+  332  cd ..
+  333  cd ..
+  334  ls
+  335  kubectl apply -f samples/addons
+  336  kubectl.exe  get pods
+  337  kubectl.exe  get pods -n  istio-system
+  338  kubectl.exe  get pods -n  istio-system
+  339  kubectl.exe  get svc  -n  istio-system
+  340  istioctl dashboard kiali 
+  341  cd Documents/
+  342  cd free_job_prepare_exp_2025/
+  343  ls
+  344  git status 
+  345  ls
+  346  cd kube/
+  347  ls
+  348  cat d.yml 
+  349  cd ..
+  350  ls
+  351  git add .
+  352  git commit . -m kubefile
+  353  git push
+  354  kubectl get svc -n default
+  355  kubectl get pods -n default
+  356  kubectl get application  -n default
+  357  kubectl get application  -n default
+  358  kubectl get application  -n default
+  359  kubectl get application  
+  360  kubectl get deploy  -n default
+  361  kubectl get pods -n default
+  362  git commit -m t7 .
+  363  git push
+  364  kubectl get pods -n default
+  365  kubectl get pods -n default
+  366  kubectl get svc  -n default
+  367  ls
+  368  cd kube/
+  369  ls
+  370  kubectl expose deployment myd --type LoadBalancer --port 80 --target-port 5000 --dry-run -o yaml > s.yml
+  371  ls
+  372  notepad s.yml 
+  373  kubectl expose deployment myd  -n default --type LoadBalancer --port 80 --target-port 5000 --dry-run -o yaml > s.yml
+  374  notepad s.yml 
+  375  kubectl get svc  -n default
+  376  cd ..
+  377  ls
+  378  git add .
+  379  git commit -m svc .
+  380  git push
+  381  kubectl get pods  -n default
+  382  git commit -m svc .
+  383  kubectl get svc  -n default
+  384  kubectl get svc  -n default
+  385  kubectl get  pods   -n default
+  386  ls
+  387  git commit -m new .
+  388  git push 
+  389  kubectl get  pods   -n default
+  390  kubectl get  pods   -n default
+  391  kubectl rollout history deployment myd   -n default
+  392  kubectl get  pods   -n default
+  393  kubectl get  pods   -n default
+  394  kubectl rollout history deployment myd   -n default
+  395  kubectl rollout history deployment myd   -n default
+  396  kubectl get  pods   -n default
+  397  ls
+  398  vim README.md 
+  399  git commit -m cmd .
+  400  git push
+  401  kubectl get pods -n default
+  402  kubectl get svc  -n default
+  403  kubectl get application
+  404  kubectl get pods -n default
+  405  kubectl delete application mylwapp
+  406  kubectl get application
+  407  kubectl get pods -n default
+  408  kubectl get pods -n default
+  409  kubectl delete all --all  -n default
+  410  cls
+  411  kubectl config set-context --current --namespace=default
+  412  kubectl get pods
+  413  kubectl apply -f https://raw.githubusercontent.com/vimallinuxworld13/eks_istio_bookinfo_app/refs/heads/master/bookinfo.yaml 
+  414  kubectl get pods
+  415  kubectl get svc
+  416  kubectl describe svc reviews
+  417  kubectl get pods -o wide
+  418  kubectl get pods 
+  419  kubectl get svc
+  420  kubectl edit  svc productpage 
+  421  kubectl port-forward svc/productpage  8080:9080
+  422  kubectl port-forward svc/productpage  9080:9080
+  423  exit
+  424  argocd login --core  
+  425  argocd admin initial-password -n argocd
+  426  kubectl get pods
+  427  kubectl get svc
+  428  kubectl port-forward svc/argocd-server -n argocd 8080:443 
+  429  while :; do curl -s http://a7aefc0b8e8b54d4598f6babc41d215a-291183615.ap-south-1.elb.amazonaws.com/me; sleep 1; echo -e "\n"; done
+  430  kubectl get pods
+  431  istioctl install --set profile=demo
+  432  kubectl get ns
+  433  kubectl get pods -n istio-system
+  434  kubectl get svc  -n istio-system
+  435  kubectl get  gwateway
+  436  kubectl get  gateway
+  437  kubectl get  vs
+  438  kubectl get  dr
+  439  kubectl get ns
+  440  kubectl label namespace default istio-injection=enabled
+  441  kubectl get  pods
+  442  kubectl delete pods --all
+  443  kubectl get  pods
+  444  kubectl get  pods
+  445  kubectl describe  pods
+  446  kubectl get  pods
+  447  kubectl get pods -n istio-system
+  448  kubectl get gateway
+  449  cd Documents/
+  450  cd free_job_prepare_exp_2025/
+  451  cd kube/
+  452  ls
+  453  vim dr.yml
+  454  kubectl apply -f dr.yml 
+  455  kubectl get vr
+  456  kubectl get vs
+  457  kubectl get dr
+  458  cls
+  459  istioctl dashboard prometheus
+  460  istioctl dashboard grafana
+  461  kubectl get pv
+  462  kubectl get pvc
+  463  kubectl get  sc
+  464  kubectl get  secret
+  465  kubectl create secret
+  466  kubectl create secret generic 
+  467  kubectl create secret generic  -h
+  468  kubectl create secret generic my-secret --from-literal=mypass=redhat
+  469  kubectl get secret
+  470  kubectl describe  secret 
+  471  kubectl create secret generic my-secret --from-literal=mypass=redhat  --dry-run -o yaml
+  472  base64
+  473  base64
+  474  base64 -d
+  475  aws eks list-clusters
+  476  eksctl.exe  delete cluster lwcluster12345
+  477  exit
+  478  cd Do
+  479  cd Documents/
+  480  git clone https://github.com/jeremyhuiskamp/golang-docker-scratch.git
+  481  cd golang-docker-scratch/
+  482  rm -rfv .git
+  483  ls
+  484  git remote add origin https://github.com/vimallinuxworld13/golang-docker-scratch.git
+  485  git branch -M master
+  486  git push -u origin master
+  487  git add .
+  488  git init
+  489  git remote add origin https://github.com/vimallinuxworld13/golang-docker-scratch.git
+  490  git branch -M master
+  491  git push -u origin master
+  492  git add .
+  493  git commit -m first .
+  494  git push 
+  495  git push --set-upstream origin master
+  496  exit
+  497  ssh root@192.168.1.2
+  498  ssh root@192.168.1.2
+  499  ssh root@192.168.1.2
+  500  ssh root@192.168.1.2
+  501  cd Documents/
+  502  cd TGS_kubernetes_hyd_2025/
+  503  ls
+  504  mkdir webproject
+  505  cd webproject/
+  506  ls
+  507  echo "# TGS_hyd_k8s_code" >> README.md
+  508  git init
+  509  git add README.md
+  510  git commit -m "first commit"
+  511  git branch -M master
+  512  git remote add origin https://github.com/vimallinuxworld13/TGS_hyd_k8s_code.git
+  513  git push -u origin master
+  514  ls 
+  515  ls
+  516  kubectl create deployment myweb1 --image=vimal/lw:v1 --dry-run -o yaml > deployment.yml
+  517  ls
+  518  kubectl expose deployment myweb1 --type=NodePort --port=80 --target-port=5000 --dry-run -o yaml > service.yml
+  519  ls
+  520  notepad service.yml 
+  521  kubectl create deployment myweb1 --image=vimal/lw:v1 
+  522  kubectl expose deployment myweb1 --type=NodePort --port=80 --target-port=5000 --dry-run -o yaml > service.yml
+  523  ls
+  524  notepad service.yml 
+  525  notepad service.yml 
+  526  kubectl delete deployment myweb1 
+  527  kubectl get pods -n default
+  528  kubectl delete all --all   -n default
+  529  ls
+  530  git add .
+  531  git commit . -m first
+  532  git push
+  533  kubectl get applications
+  534  kubectl get svc -n default
+  535  kubectl get pods -n default
+  536  kubectl get pods -n default
+  537  kubectl get deploy  -n default
+  538  kubectl get pods -n default
+  539  ls
+  540  vim deployment.yml 
+  541  git commit . -m sec
+  542  git push 
+  543  kubectl get pods -n default
+  544  vim deployment.yml 
+  545  git commit . -m 3rd
+  546  git push 
+  547  kubectl get pods -n default
+  548  kubectl get applications
+  549  kubectl describe applications
+  550  history 
+  551  helm
+  552  ls
+  553  helm create 
+  554  helm create  lwchart
+  555  ls
+  556  cd lwchart/
+  557  ls
+  558  cd templates/
+  559  ls
+  560  vim deployment.yaml 
+  561  ls
+  562  cd ..
+  563  cd ..
+  564  ls
+  565  cd lwchart/
+  566  ls
+  567  cd templates/
+  568  ls
+  569  cd ..
+  570  ls
+  571  rm -rf templates/
+  572  mkdir templates/
+  573  ls
+  574  cd ..
+  575  ls
+  576  cp deployment.yml lwchart/templates/
+  577  cp service.yml  lwchart/templates/
+  578  ls
+  579  cd lwchart/
+  580  ls
+  581  cd templates/
+  582  ls
+  583  cd ..
+  584  ls
+  585  cd ..
+  586  ls
+  587  kubectl get pods -n default
+  588  kubectl config set-context --current --namespace=default
+  589  kubectl get pods
+  590  kubectl get pods
+  591  ls
+  592  helm install lwchart/
+  593  helm install lwchart123 lwchart/
+  594  kubectl get pods
+  595  helm list
+  596  helm delete lwchart123
+  597  helm list
+  598  kubectl get pods
+  599  ls
+  600  cd lwchart/
+  601  ls
+  602  cd templates/
+  603  ls
+  604  vim deployment.yml 
+  605  vim deployment.yml 
+  606  ls
+  607  cd ..
+  608  ls
+  609  vim values.yaml 
+  610  vim values.yaml 
+  611  cd templates/
+  612  ls
+  613  vim deployment.yml 
+  614  vim deployment.yml 
+  615  ls
+  616  cd ..
+  617  ls
+  618  cd ..
+  619  helm install lwchart123 lwchart/ 
+  620  kubectl get pods
+  621  helm delete lwchart123
+  622  vim lwchart/values.yaml 
+  623  helm install lwchart123 lwchart/ 
+  624  kubectl get pods
+  625  helm delete lwchart123
+  626  vim lwchart/values.yaml 
+  627  helm install lwchart123 lwchart/   -h
+  628  ls
+  629  ls lwchart/
+  630  vim lwchart/values.yaml 
+  631  helm install lwchart123 lwchart/   --set myReplicaCount=7 
+  632  kubectl get pods
+  633  helm delete lwchart123
+  634  ls
+  635  git add .
+  636  git commit -m mychart .
+  637  git push
+  638  kubectl get pods
+  639  helm repo add jenkins https://charts.jenkins.io
+  640  helm repo update
+  641  helm install lwjenkins  jenkins/jenkins
+  642  helm repo update
+  643  helm install lwjenkins  jenkins/jenkins
+  644  helm install jenkins  jenkins/jenkins
+  645  helm repo list
+  646  helm install lwjenkins  jenkins1/jenkins
+  647  kubectl get pods
+  648  kubectl get pods
+  649  kubectl get pods
+  650  kubectl get pods
+  651  history 
+  652  kubectl get pods
+  653  kubectl get pods
+  654  kubectl get pods
+  655  kubectl  get svc
+  656  ls
+  657  kubectl get pdos
+  658  kubectl get pods
+  659  kubectl delete all --all
+  660  kubectl create deployment mydb --image=mysql 
+  661  kubectl get pods
+  662  kubectl get pods
+  663  kubectl get pods
+  664  kubectl describe  pods
+  665  kubectl get pods
+  666  kubectl get pods
+  667  kubectl logs pods 
+  668  kubectl logs pods mydb-565ddc947f-dclrk 
+  669  kubectl logs  mydb-565ddc947f-dclrk 
+  670  kubectl get pods
+  671  kubectl describe deployment
+  672  kubectl get pods
+  673  kubectl get deploy
+  674  kubectl set 
+  675  kubectl set env 
+  676  kubectl set env  deployment mydb 
+  677  kubectl set env  deployment mydb  -h
+  678  kubectl set env  deployment mydb   MYSQL_ROOT_PASSWORD=redhat MYSQL_DATABASE=lwdb  MYSQL_USER=vimal        MYSQL_PASSWORD=redhat
+  679  kubectl get deploy
+  680  kubectl get pods
+  681  kubectl describe deployment  mydb
+  682  history 
+  683  kubectl get deploy
+  684  kubectl get deploy -o yaml  
+  685  kubectl get deploy -o yaml   > deploy-db.yml
+  686  vim deploy-db.yml 
+  687  kubectl get deploy
+  688  kubectl delete deploy  mydb
+  689  ls
+  690  kubectl apply -f deploy-db.yml 
+  691  notepad deploy-db.yml
+  692  kubectl apply -f deploy-db.yml 
+  693  kubectl get pods
+  694  notepad deploy-db.yml
+  695  kubectl get pods
+  696  kubectl get secret
+  697  kubectl create  secret
+  698  kubectl create  secret generic lwsecret  -h
+  699  kubectl create  secret generic lwsecret  --from-literal=p=redhat
+  700  kubectl get secret
+  701  kubectl get pods
+  702  kubectl describe  pods
+  703  ls
+  704  kubectl delete deployment --all
+  705  kubectl get pods
+  706  kubectl apply -f deploy-db.yml 
+  707  kubectl get pods
+  708  kubectl describe  pods
+  709  kubectl get secret
+  710  kubectl get secret lwsecret -o yaml
+  711  kubectl get secret lwsecret -o yaml > lws.yml
+  712  ls
+  713  cat lws.yml 
+  714  openssl base64 -d
+  715  openssl base64 -d
+  716  base64 -d
+  717  ls
+  718  cat lws.yml 
+  719  history 
+  720  ls
+  721  cat lws.yml 
+  722  cat deploy-db.yml 
+  723  git add .
+  724  git commit -m new .
+  725  git push 
+  726  history 
+  727  history > history.txt
